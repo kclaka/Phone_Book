@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Problems/Count elements of an array in another one/out/
+/Problems/Count elements of an array in another one/out/production/classes/
